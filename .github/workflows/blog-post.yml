@@ -12,5 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://amorgunov.com/feed/feed.xml"
-          template: "- $date: **«[$title]($url)»** - $description$newline"
+          template: "- $date: **«[$title]($url)»**$newline"
           date_format: "dd/mm/yyyy"
