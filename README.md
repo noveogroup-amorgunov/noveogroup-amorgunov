@@ -2,11 +2,9 @@
 
 I am a software engineer also known as @saaaaaaaaasha. Now I am working at Yandex as a frontend technical lead.
 
-<br>
-
 ### Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saaaaaaaaasha/)
 
 <br>
 <br>
