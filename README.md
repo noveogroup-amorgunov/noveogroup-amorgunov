@@ -1,15 +1,17 @@
 ### Hey 👋
 
-I am a software engineer from Russia. Now I am working at Yandex as a technical lead.
+I am a software engineer also known as @saaaaaaaaasha. Now I am working at Yandex as a frontend technical lead.
+
+<br>
 
 ### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
 
-
+<br>
 <br>
 
-### Last blog posts (on russian)
+### Latest posts (on russian)
 
 <!-- BLOG-POST-LIST:START -->- 14/06/2021: **«[Typescript challenge: flatArray](https://amorgunov.com/posts/2021-06-14-typescript-challenge-flat-array/)»**
 - 08/12/2020: **«[Server side rendering в React](https://amorgunov.com/posts/2020-12-08-server-side-rendering-in-react/)»**
