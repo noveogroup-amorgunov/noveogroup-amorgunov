@@ -10,6 +10,7 @@ Check out all [my blog posts here](https://amorgunov.com/blog) [RU]!
 
 ## Talks <img width="24px" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" />
 
+- 2024 [RU] [HolyJS 2024 Autumn / **Разбираемся в Feature-Sliced Design**](https://holyjs.ru/talks/1025b2f91f5e48fc8598e6a990697a2e) ([📸 Slides](https://docs.google.com/presentation/d/1W3xmFgfcIssZY9Pg9VnNAbUBCA665V3QzQtTdkcmo00/edit))
 - 2024 [RU] [Я <3 Фронтенд / **Копаем глубже в Feature-Sliced Design**](https://www.youtube.com/watch?v=M84x3pzDYr0&ab_channel=YandexforFrontend) ([📸 Slides](https://docs.google.com/presentation/d/1zHaieuqyiW95witifD9rO0-nnj5GmjzzPkDGvhWft6s/edit?usp=sharing))
 - 2024 [RU] [MoscowJS #58 / **Темная сторона NextJS**](https://www.youtube.com/watch?v=1RHxFJhLrQk&t=2s&ab_channel=MoscowJS) ([📸 Slides](https://docs.google.com/presentation/d/1bbWxYGwKJ9HOFm8K81LWTVJ6hbLrLzAqZW2oN1U9luI/edit?usp=sharing))
 - 2022 [RU] [Samokat_tech Meetup / **Тестирование в современном фронтенде**](https://www.youtube.com/watch?v=4S5VDv6Ximk)
