@@ -1,5 +1,5 @@
 <p>
-  <img width="64px" height="64px" src="https://github.com/noveogroup-amorgunov/amorgunov.com/raw/master/src/assets/favicon192.png" />
+  <img width="64px" height="64px" src="https://github.com/noveogroup-amorgunov/amorgunov.com/raw/master/packages/app/src/assets/favicon192.png" />
 </p>
 
 Hey 👋 I am a software engineer also known as @saaaaaaaaasha. Now I am working at Samokat.tech as a techlead (ex Noveogroup, ex Yandex). Connect with me in [**linkedin**](https://www.linkedin.com/in/saaaaaaaaasha/) or [**telegram**](https://t.me/amorgunov).
